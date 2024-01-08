@@ -1,0 +1,355 @@
+/*  head styles  */
+header{
+    background-image: url('../assignment1-new-year/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    background-position: center;
+    background-size: 100%;
+    margin: 0 auto;
+    border-radius: 16px;
+
+}
+body{
+    margin-left: 8%;
+    margin-right: 8%;
+    justify-content:center;
+}
+.head1{
+    text-align: center;
+     color: #FFF;
+     font-family: Merriweather;
+    font-size: 40px;
+font-style: normal;
+font-weight: 500;
+padding: 70px;
+}
+.head2{
+    text-align: center;
+     color: #FFF;
+     font-family: Merriweather;
+    font-size: 72px;
+font-style: normal;
+font-weight: 900;
+}
+.sale{
+    text-align: center;
+    padding: 10px 10px 90px 10px;
+}
+.sale h2{
+    color: #F00;
+
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.sale h3{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.sale h1{
+    color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.party{
+    background-image: url('../assignment1-new-year/resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    background-position: center;
+    background-size: 100%;
+    margin: 0 auto;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+.party .party1{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 65px;
+font-style: normal;
+padding: 25px 10px 10px 125px;
+}
+.party .party2{
+    color: rgba(255, 255, 255, 0.80);
+font-size: 20px;
+font-style: normal;
+padding: 0px 10px 10px 125px;
+}
+.grp70{
+display: flex;
+padding: 68px 138px 67px 450px;
+}
+.event{
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+align-items: center;
+margin-top: 50px;
+padding-top: 50px;
+margin-bottom: 50px;
+padding-bottom: 60px;
+    
+flex-shrink: 0;
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.Event1{
+    padding-bottom: 50px;
+}
+.events{
+    color: #F00;
+}
+li{
+    list-style: none;
+}
+.join{
+    border-radius: 8px;
+background: #F00;
+border: 0;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+}
+.offer{
+    display: flex;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.offer1{
+    width: 393px;
+}
+.offer1 h4{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.offer1 h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+}
+.offer1 p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.offer2{
+
+    width: 364.844px;
+height: 364.844px;
+    border-radius: 463px;
+border: 15px solid #F00;
+}
+.offer3{
+    padding-left: 50px;
+    width: 276px;
+}
+.offer3 h1{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.offer3 p{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.sale{
+    text-align: center;
+}
+.sale h4{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holi{
+    color: #F00;
+}
+.sale h1{
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.sale p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+}
+.sale-img{
+   display: flex;
+}
+.portfolio{
+    justify-content: center;
+}
+.portfolio h4{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.portfolio h1{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.portfolio p{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.item1{
+    display: flex;
+    justify-content: center;
+}
+.item2{
+    display: flex;
+    justify-content: center;
+}
+.subscribe{
+margin-top: 50px;
+padding-top: 50px;
+margin-bottom: 50px;
+padding-bottom: 60px;
+    text-align: center;
+    
+flex-shrink: 0;
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.subscribe h1{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.subscribe p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.mail{
+    width: 648px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 50px 0px 0px 50px;
+background: #FFF;
+border: 0;
+}
+.sub{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+width: 210px;
+height: 72px;
+flex-shrink: 0;
+border: 0;
+}
+.sub-text{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background: #070211;
+    color: #FFF;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.address{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    
+}
+.address li{
+    display: flex;
+}
+.add1{
+    width: 300px;
+}
+.icon{
+    align-items: center;
+    display: flex;
+    justify-content:center;
+}
+.small{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 60px;
+}
